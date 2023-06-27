@@ -1,0 +1,16 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.22.5",
+    "jest": "^27.0.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
